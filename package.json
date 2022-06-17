@@ -1,0 +1,10 @@
+{
+  "name": "stylelint-validate-options-test",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^28.1.1",
+    "stylelint": "^14.9.1"
+  }
+}
